@@ -1,3 +1,9 @@
+How to add 
 git add ./
 git commit -m "adaug cevaa"
+git push origin master
+
+How to delete 
+git remove filename
+git commit -m "delete smt"
 git push origin master
